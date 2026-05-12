@@ -6,9 +6,25 @@ A full-stack AI-powered personalization engine that analyzes customer transactio
 
 ## Demo
 
-[![Watch the demo](assets/demo-preview.gif)](https://github.com/sanjeevstv/AI-Hyper-Personalization-Engine-for-Retail-Banking/releases/download/v1.0.0/demo.mp4)
+> [Full demo video (3 min 40 sec)](https://github.com/sanjeevstv/AI-Hyper-Personalization-Engine-for-Retail-Banking/releases/download/v1.0.0/demo.mp4)
 
-> Click the preview above to watch the full demo video.
+### System Initialization & Data Loading
+![System Init](assets/01-system-init.gif)
+
+### Customer Profiles & Filtering
+![Customer Profiles](assets/02-customer-profiles.gif)
+
+### Life Event Detection
+![Life Events](assets/03-life-events.gif)
+
+### Customer Segmentation
+![Segmentation](assets/04-segmentation.gif)
+
+### Recommendation Engine
+![Recommendations](assets/05-recommendations.gif)
+
+### GenAI Messaging & Export
+![GenAI Messaging](assets/06-genai-messaging.gif)
 
 ## Architecture
 
