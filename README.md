@@ -4,6 +4,10 @@ A full-stack AI-powered personalization engine that analyzes customer transactio
 
 > For detailed setup instructions (macOS and Windows), see **[SETUP_GUIDE.md](SETUP_GUIDE.md)**.
 
+## Demo
+
+<video src="demo.mp4" autoplay loop muted playsinline width="100%"></video>
+
 ## Architecture
 
 - **Backend**: Python Flask REST API with SQLAlchemy ORM
