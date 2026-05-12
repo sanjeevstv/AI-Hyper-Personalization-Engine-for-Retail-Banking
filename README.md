@@ -6,7 +6,9 @@ A full-stack AI-powered personalization engine that analyzes customer transactio
 
 ## Demo
 
-https://github.com/sanjeevstv/AI-Hyper-Personalization-Engine-for-Retail-Banking/releases/download/v1.0.0/demo.mp4
+<video src="https://raw.githubusercontent.com/sanjeevstv/AI-Hyper-Personalization-Engine-for-Retail-Banking/main/assets/demo.mp4" controls autoplay loop muted playsinline width="100%">
+  Your browser does not support the video tag. <a href="https://github.com/sanjeevstv/AI-Hyper-Personalization-Engine-for-Retail-Banking/releases/download/v1.0.0/demo.mp4">Watch the demo here</a>.
+</video>
 
 ## Architecture
 
