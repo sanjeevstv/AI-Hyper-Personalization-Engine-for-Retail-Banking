@@ -11,19 +11,19 @@ A full-stack AI-powered personalization engine that analyzes customer transactio
 ### System Initialization & Data Loading
 ![System Init](assets/01-system-init.gif)
 
-### Customer Profiles & Filtering
+### Customer Profiles & Life Event Detection
 ![Customer Profiles](assets/02-customer-profiles.gif)
 
-### Life Event Detection
+### Product Recommendation
 ![Life Events](assets/03-life-events.gif)
 
-### Customer Segmentation
+### GenAI Messaging
 ![Segmentation](assets/04-segmentation.gif)
 
 ### Recommendation Engine
 ![Recommendations](assets/05-recommendations.gif)
 
-### GenAI Messaging & Export
+### Segments Overview with filters and export
 ![GenAI Messaging](assets/06-genai-messaging.gif)
 
 ## Architecture
