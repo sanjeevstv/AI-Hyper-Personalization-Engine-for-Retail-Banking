@@ -1,0 +1,101 @@
+customer_id,age,occupation,city,annual_income,marital_status
+CUST_0001,62,Doctor,New York,154771.34,Single
+CUST_0002,36,Teacher,San Francisco,143422.41,Divorced
+CUST_0003,27,Consultant,Los Angeles,30561.97,Single
+CUST_0004,35,Business Analyst,Miami,130353.28,Divorced
+CUST_0005,34,Entrepreneur,Miami,98415.97,Married
+CUST_0006,59,Accountant,New York,157791.29,Single
+CUST_0007,49,Designer,Boston,52208.91,Married
+CUST_0008,28,Doctor,Los Angeles,41925.37,Married
+CUST_0009,60,Accountant,New York,152703.06,Divorced
+CUST_0010,29,Marketing Manager,San Francisco,121607.11,Divorced
+CUST_0011,61,Designer,Atlanta,58650.5,Single
+CUST_0012,24,Lawyer,Austin,160286.96,Single
+CUST_0013,36,Doctor,Los Angeles,73645.38,Divorced
+CUST_0014,45,Teacher,Seattle,87172.37,Divorced
+CUST_0015,39,Entrepreneur,San Francisco,131597.93,Single
+CUST_0016,56,Entrepreneur,Austin,53595.44,Married
+CUST_0017,39,Lawyer,Miami,63432.66,Married
+CUST_0018,25,Business Analyst,New York,165883.02,Married
+CUST_0019,39,Doctor,Austin,184798.82,Divorced
+CUST_0020,42,Business Analyst,Denver,94235.58,Divorced
+CUST_0021,51,Teacher,Boston,49435.31,Divorced
+CUST_0022,57,Data Scientist,Boston,155727.42,Married
+CUST_0023,59,Marketing Manager,Seattle,63381.13,Single
+CUST_0024,54,Sales Executive,San Francisco,157261.88,Single
+CUST_0025,31,Lawyer,Chicago,163613.89,Married
+CUST_0026,60,Doctor,Los Angeles,91783.38,Married
+CUST_0027,55,Accountant,Miami,175636.45,Single
+CUST_0028,65,Entrepreneur,San Francisco,144299.31,Divorced
+CUST_0029,39,Lawyer,Seattle,44521.63,Married
+CUST_0030,32,Sales Executive,New York,191917.79,Divorced
+CUST_0031,38,Data Scientist,Chicago,113844.29,Single
+CUST_0032,62,Accountant,Miami,131569.79,Single
+CUST_0033,45,Teacher,Miami,191862.46,Divorced
+CUST_0034,22,Consultant,Seattle,110506.0,Single
+CUST_0035,45,Accountant,Austin,35136.9,Divorced
+CUST_0036,27,Doctor,Denver,167804.07,Divorced
+CUST_0037,30,Teacher,Denver,190698.52,Single
+CUST_0038,38,Data Scientist,Atlanta,99049.14,Single
+CUST_0039,56,Entrepreneur,Austin,149766.07,Married
+CUST_0040,64,Lawyer,Seattle,101667.51,Divorced
+CUST_0041,50,Doctor,Austin,64322.03,Married
+CUST_0042,23,Consultant,Miami,65270.08,Single
+CUST_0043,22,Doctor,New York,65064.81,Single
+CUST_0044,43,Doctor,Miami,66650.81,Divorced
+CUST_0045,53,Business Analyst,Miami,48154.57,Divorced
+CUST_0046,58,Sales Executive,Austin,162308.4,Married
+CUST_0047,34,Doctor,San Francisco,140321.98,Married
+CUST_0048,49,Marketing Manager,Denver,176171.43,Single
+CUST_0049,65,Lawyer,San Francisco,35607.22,Divorced
+CUST_0050,43,Doctor,Austin,58528.26,Divorced
+CUST_0051,50,Teacher,Los Angeles,57110.41,Married
+CUST_0052,37,Doctor,Denver,166403.89,Divorced
+CUST_0053,28,Software Engineer,Miami,171304.83,Single
+CUST_0054,37,Teacher,Los Angeles,109987.2,Single
+CUST_0055,47,Software Engineer,Chicago,91320.3,Married
+CUST_0056,38,Sales Executive,Boston,99026.31,Divorced
+CUST_0057,57,Lawyer,Denver,52089.44,Married
+CUST_0058,35,Software Engineer,Atlanta,153754.01,Single
+CUST_0059,42,Software Engineer,New York,127231.08,Divorced
+CUST_0060,55,Teacher,New York,193136.31,Single
+CUST_0061,33,Doctor,Atlanta,36893.15,Single
+CUST_0062,47,Doctor,Atlanta,68087.69,Divorced
+CUST_0063,24,Consultant,San Francisco,98364.36,Divorced
+CUST_0064,58,Data Scientist,Seattle,188573.6,Single
+CUST_0065,64,Entrepreneur,Seattle,66770.04,Married
+CUST_0066,30,Lawyer,Boston,105014.3,Single
+CUST_0067,22,Sales Executive,Atlanta,199729.53,Single
+CUST_0068,26,Data Scientist,Austin,113529.82,Single
+CUST_0069,44,Doctor,Austin,89667.24,Single
+CUST_0070,50,Data Scientist,Boston,132043.61,Divorced
+CUST_0071,55,Software Engineer,Miami,77391.28,Divorced
+CUST_0072,28,Teacher,Boston,45200.02,Single
+CUST_0073,57,Teacher,Boston,74307.35,Single
+CUST_0074,43,Business Analyst,Boston,113446.59,Married
+CUST_0075,25,Doctor,Los Angeles,170135.92,Single
+CUST_0076,22,Designer,Chicago,136494.84,Married
+CUST_0077,32,Entrepreneur,Denver,121544.07,Married
+CUST_0078,57,Software Engineer,San Francisco,38167.68,Divorced
+CUST_0079,31,Data Scientist,New York,171054.13,Divorced
+CUST_0080,57,Teacher,Los Angeles,47302.97,Married
+CUST_0081,45,Software Engineer,Seattle,61763.39,Single
+CUST_0082,64,Doctor,Seattle,161520.34,Married
+CUST_0083,61,Entrepreneur,Chicago,187008.67,Single
+CUST_0084,32,Teacher,Los Angeles,29337.61,Divorced
+CUST_0085,43,Marketing Manager,Austin,71691.0,Divorced
+CUST_0086,28,Marketing Manager,New York,175253.82,Single
+CUST_0087,34,Sales Executive,Seattle,78408.4,Single
+CUST_0088,36,Software Engineer,Austin,94731.55,Married
+CUST_0089,26,Accountant,Seattle,137259.3,Married
+CUST_0090,65,Data Scientist,Seattle,189366.5,Single
+CUST_0091,38,Teacher,Atlanta,193443.51,Married
+CUST_0092,24,Doctor,Atlanta,101048.66,Divorced
+CUST_0093,42,Marketing Manager,Atlanta,197241.27,Single
+CUST_0094,46,Consultant,Austin,69576.44,Divorced
+CUST_0095,49,Software Engineer,Miami,186975.65,Divorced
+CUST_0096,65,Entrepreneur,Austin,88738.76,Single
+CUST_0097,64,Designer,Atlanta,79935.24,Single
+CUST_0098,41,Data Scientist,Boston,141706.26,Married
+CUST_0099,47,Entrepreneur,Boston,122022.18,Single
+CUST_0100,48,Lawyer,Los Angeles,143530.64,Single
