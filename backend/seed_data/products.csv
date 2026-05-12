@@ -1,0 +1,11 @@
+product_id,product_name,product_type,eligibility_income,benefits
+PROD_001,Platinum Travel Credit Card,Credit Card,60000,"Airport lounge access, zero forex markup, 3x travel reward points, complimentary travel insurance"
+PROD_002,Cashback Rewards Card,Credit Card,30000,"5% cashback on online shopping, 2% on dining, no annual fee first year"
+PROD_003,Premium Savings Account,Savings,80000,"Higher interest rate, free unlimited transactions, dedicated relationship manager"
+PROD_004,Smart Investment Plan,Investment,50000,"Curated mutual fund portfolio, auto-rebalancing, tax-saving options"
+PROD_005,Pre-Approved Personal Loan,Loan,40000,"Low interest rate, instant approval, flexible tenure up to 5 years"
+PROD_006,Home Loan Advantage,Loan,70000,"Competitive rates, zero processing fee, balance transfer facility"
+PROD_007,Wealth Management Suite,Wealth,100000,"Dedicated wealth advisor, portfolio management, estate planning"
+PROD_008,Family Protection Plan,Insurance,35000,"Term life coverage, critical illness rider, family floater health insurance"
+PROD_009,Student Education Loan,Loan,25000,"Low interest, moratorium period, covers tuition and living expenses"
+PROD_010,Business Growth Account,Business,60000,"Higher transaction limits, free POS terminal, GST-ready invoicing"
