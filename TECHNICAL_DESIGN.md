@@ -237,7 +237,7 @@ erDiagram
     }
 
     DigitalBehavior {
-        string customer_id PK_FK
+        string customer_id PK
         int mobile_app_logins
         int credit_card_clicks
         int investment_page_visits
@@ -245,7 +245,7 @@ erDiagram
     }
 
     CustomerProfile {
-        string customer_id PK_FK
+        string customer_id PK
         float monthly_income
         float monthly_spending
         float savings_ratio
@@ -266,7 +266,7 @@ erDiagram
     }
 
     SegmentAssignment {
-        string customer_id PK_FK
+        string customer_id PK
         string segment_name
         int cluster_id
         float confidence
